@@ -1,0 +1,19 @@
+{
+  "name": "Zombies-vs-Ninjas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.8",
+    "gitignore": "^0.1.7",
+    "mongo": "^0.1.0",
+    "mongoose": "^3.8.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
